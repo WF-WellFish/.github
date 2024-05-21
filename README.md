@@ -29,10 +29,7 @@
 ## Introduction
 
 WellFish Is a bla bla bla bla bla  
- 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 
 | Collaborative Productivity - Last 28 days | Star History |
 | ----------- | ----------- |
