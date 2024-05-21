@@ -1,11 +1,5 @@
 <h1 align="center">Hello Guys! We Are WellFish! From Bangkit Team C241-PS410</h1>
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
-</a>
-</div>
-
 <h4 align="center">
   <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
   •
