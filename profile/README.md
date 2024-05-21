@@ -23,7 +23,7 @@
 WellFish Is a bla bla bla bla bla  
 
 ## Our Great Team
-Our team consists of 6 students from 3 learning paths. Machine Learning division is responsible for building classification algorithms to predict pet diseases based on pet symptoms, constructing a CNN model for classifying pet skin diseases, as well as model deployment. The Cloud Computing division is accountable for building endpoint APIs, building app infrastructure, and implementing a storage model with the Google Cloud Platform. The Mobile Development division is liable for designing the application interface and also translating the design to Android Studio using Kotlin.
+Our team consists of 6 students from 3 learning paths. Machine Learning division is responsible for building classification algorithms to predict fish type, categories and diseases, constructing a CNN model for classifying the fish, as well as model deployment. The Cloud Computing division is accountable for building endpoint APIs, building app infrastructure, and implementing a storage model with the Google Cloud Platform. The Mobile Development division is liable for designing the application interface and also translating the design to Android Studio using Kotlin.
 
 | Name | Role | Social Media |
 | ---- | ---- | ------------ |
