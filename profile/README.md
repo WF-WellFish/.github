@@ -1,21 +1,21 @@
 <h1 align="center">Hello Guys! We Are WellFish! From Bangkit Team C241-PS410</h1>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="#">Data Explorer</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="#">Repo Rankings</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b><a href="#">Developer Analytics</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <a href="#">Repo Analytics</a>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  <a href="#">Collections</a>
   •
-  <a href="https://ossinsight.io/blog">Blog</a>
+  <a href="#">Blog</a>
   •
-  <a href="https://ossinsight.io/docs">API</a>
+  <a href="#">API</a>
   •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <a href="#">Twitter</a>
 </h3>
 
 ## Introduction
