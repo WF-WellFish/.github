@@ -41,21 +41,21 @@ Image Here
 Caption bla bla bla bla
 
 ## Language & Tools
-
+List tools sama bahasa pemrograman entar pakai logo2nya aja
 
 ## Widget
 
 | Collaborative Productivity - Last 28 days | Star History |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|widget disini entar|widget disini entar|
 
 | Currently Working On - Last 28 days | Lines of Code Changes |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|widget disini entar|widget disini entar|
 
 | Repository Annual Ranking |
 | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|
+| widget disini entar |
 
 ## Contact us
 <a href="https://twitter.com/OSSInsight" target="_blank">
