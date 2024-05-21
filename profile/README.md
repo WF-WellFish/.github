@@ -27,12 +27,12 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 
 | Name | Role | Social Media |
 | ---- | ---- | ------------ |
-| Virgo Stevanus | Cloud Enginner | <a href="www.linkedin.com/in/virgo-stevanus-b414b3223">LinkedIn</a> \| <a href="www.linkedin.com/in/virgo-stevanus-b414b3223">Github</a> |
-| Novi Kristianti | Cloud Enginner | <a href="https://www.linkedin.com/in/novi-kristianti/">LinkedIn</a> \| <a href="https://github.com/kristinaovi">Github</a> |
-| Muhammad Rizky Pradhitia | Machine Learning Engineer | <a href="https://www.linkedin.com/in/rizkypradhitia/">LinkedIn</a> \| <a href="https://github.com/RizkyPradhitia">Github</a> |
-| Aldi Fauzan | Machine Learning Engineer | <a href="https://www.linkedin.com/in/aldifauzan/">LinkedIn</a> \| <a href="https://github.com/aaldifauzan">Github</a> |
-| Daffa Asyqar | Machine Learning Engineer | <a href="http://www.linkedin.com/in/daffasyqarrr">LinkedIn</a> \| <a href="https://github.com/khalishekahmad">Github</a> |
-| Syakila | Mobile Developer | <a href="https://www.linkedin.com/in/syakila-b763b7183/">LinkedIn</a> \| <a href="www.linkedin.com/in/virgo-stevanus-b414b3223">Github</a> |
+| Virgo Stevanus | Cloud Enginner | <a target="_blank" href="www.linkedin.com/in/virgo-stevanus-b414b3223">LinkedIn</a> \| <a target="_blank" href="www.linkedin.com/in/virgo-stevanus-b414b3223">Github</a> |
+| Novi Kristianti | Cloud Enginner | <a target="_blank" href="https://www.linkedin.com/in/novi-kristianti/">LinkedIn</a> \| <a target="_blank" href="https://github.com/kristinaovi">Github</a> |
+| Muhammad Rizky Pradhitia | Machine Learning Engineer | <a target="_blank" href="https://www.linkedin.com/in/rizkypradhitia/">LinkedIn</a> \| <a target="_blank" href="https://github.com/RizkyPradhitia">Github</a> |
+| Aldi Fauzan | Machine Learning Engineer | <a target="_blank" href="https://www.linkedin.com/in/aldifauzan/">LinkedIn</a> \| <a target="_blank" href="https://github.com/aaldifauzan">Github</a> |
+| Daffa Asyqar | Machine Learning Engineer | <a target="_blank" href="http://www.linkedin.com/in/daffasyqarrr">LinkedIn</a> \| <a target="_blank" href="https://github.com/khalishekahmad">Github</a> |
+| Syakila | Mobile Developer | <a target="_blank" href="https://www.linkedin.com/in/syakila-b763b7183/">LinkedIn</a> \| <a target="_blank" href="www.linkedin.com/in/virgo-stevanus-b414b3223">Github</a> |
 
 
 ## About WellFish App
