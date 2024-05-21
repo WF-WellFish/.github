@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are WellFish! 👁️ From Bangkit Team C241-PS410</h1>
+<h1 align="center">Hello Guys! We Are WellFish! From Bangkit Team C241-PS410</h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -17,8 +17,6 @@
   •
   <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
   •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
   <a href="https://ossinsight.io/blog">Blog</a>
   •
   <a href="https://ossinsight.io/docs">API</a>
@@ -30,6 +28,14 @@
 
 WellFish Is a bla bla bla bla bla  
 
+## Our Great Team
+
+## About WellFish App
+Image Here
+
+Caption bla bla bla bla
+
+## Widget
 
 | Collaborative Productivity - Last 28 days | Star History |
 | ----------- | ----------- |
