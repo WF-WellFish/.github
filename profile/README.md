@@ -61,4 +61,4 @@ repo here
 | widget disini entar |
 
 ## Contact us
-????????? pakai tak ?
+email : WellFishBangkit@gmail.com
