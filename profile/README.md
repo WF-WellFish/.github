@@ -15,15 +15,27 @@
   •
   <a href="#">API</a>
   •
-  <a href="#">Twitter</a>
 </h3>
 
-## Introduction
+## About WellFish App
+[[Image Here]]
 
-WellFish Is a bla bla bla bla bla  
+WellFish is a pioneering mobile application designed to harness the power of machine learning and advanced image processing to revolutionize the way consumers and industry professionals interact with marine resources. As a maritime country, Indonesia boasts a rich variety of marine life, particularly fish, which are a vital source of protein and omega-3 fatty acids. Despite the abundance of these resources, ensuring the correct identification and freshness of fish remains a significant challenge. This can lead to decreased consumer trust and potential health risks.
+
+To address these issues, WellFish offers two primary features:
+
+Fish Classification: This feature allows users to identify the species of fish from a simple image. Using sophisticated machine learning algorithms, WellFish can classify the fish, providing detailed information about its name, type, dietary habits, and other relevant descriptions. This empowers users with knowledge about their seafood, enhancing their confidence in their purchases and consumption.
+
+Disease Detection: WellFish also includes a disease detection feature, which can identify potential diseases in fish from an image. This is crucial for preventing the spread of fish diseases that can negatively impact marine ecosystems and the fishing industry. By providing early detection, WellFish helps in maintaining the health of marine resources and ensuring the safety of fish for consumption.
+
+In addition to these main features, WellFish incorporates essential user functionalities such as user registration, login, history tracking of classifications, and account management features like password changes and logout options. These functionalities ensure a smooth and secure user experience.
+
+WellFish aims to be an invaluable tool for a wide range of users, including fishermen, the general public, traders, and others involved in the marine and fish industry. By providing accurate fish classification and disease detection, WellFish not only aids consumers in making informed choices but also supports the fishing industry in increasing efficiency and sustainability.
+
+Ultimately, WellFish is more than just an app; it is a commitment to enhancing the consumption of marine products, protecting marine ecosystems, and preserving the richness of Indonesia's maritime heritage. Through its innovative approach, WellFish strives to build trust, improve public health, and contribute to the sustainability of marine resources.
 
 ## Our Great Team
-Our team consists of 6 students from 3 learning paths. Machine Learning division is responsible for building classification algorithms to predict fish type, categories and diseases, constructing a CNN model for classifying the fish, as well as model deployment. The Cloud Computing division is accountable for building endpoint APIs, building app infrastructure, and implementing a storage model with the Google Cloud Platform. The Mobile Development division is liable for designing the application interface and also translating the design to Android Studio using Kotlin.
+Our team consists of 6 students from 3 learning paths. Machine Learning division is responsible for building classification algorithms to predict the fish type, categories, and diseases, constructing a CNN model for classifying the fish, as well as model deployment. The Cloud Computing division is accountable for building endpoint APIs, building app infrastructure, and implementing a storage model with the Google Cloud Platform. The Mobile Development division is liable for designing the application interface and also translating the design to Android Studio using Kotlin.
 
 | Name | Role | Social Media |
 | ---- | ---- | ------------ |
@@ -34,14 +46,8 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 | Daffa Asyqar | Machine Learning Engineer | <a href="http://www.linkedin.com/in/daffasyqarrr">LinkedIn</a> \| <a href="https://github.com/khalishekahmad">Github</a> |
 | Syakila | Mobile Developer | <a href="https://www.linkedin.com/in/syakila-b763b7183/">LinkedIn</a> \| <a href="www.linkedin.com/in/virgo-stevanus-b414b3223">Github</a> |
 
-
-## About WellFish App
-Image Here
-
-Caption bla bla bla bla
-
 ## Language & Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,MySQL,gcp,tensorflow,pytorch,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,mysql,gcp,tensorflow,pytorch)](https://skillicons.dev)
 
 ## Repository
 repo here
