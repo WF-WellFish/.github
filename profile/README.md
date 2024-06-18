@@ -4,7 +4,9 @@
 We are Capstone Team C241-PS410 From Bangkit 2024 Batch 1. We created an Android app called WellFsh.
 
 ## About WellFish App
-![Uploading Logo.jpg…]()
+<div align="center">
+  <img src="https://github.com/WF-WellFish/.github/assets/85036198/1b0dcfb3-0cef-4010-80b9-308394a415ea" alt="drawing" style="width:300px;"/>
+</div>
 
 WellFish is a pioneering mobile application designed to harness the power of machine learning and advanced image processing to revolutionize the way consumers and industry professionals interact with marine resources. As a maritime country, Indonesia boasts a rich variety of marine life, particularly fish, which are a vital source of protein and omega-3 fatty acids. Despite the abundance of these resources, ensuring the correct identification and freshness of fish remains a significant challenge. This can lead to decreased consumer trust and potential health risks.
 
@@ -40,4 +42,4 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 - Machine Learning Classification API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XPBhJE">Click Here For Documentation</a>
 
 ## Contact us
-email : WellFishBangkit@gmail.com
+email: WellFishBangkit@gmail.com
