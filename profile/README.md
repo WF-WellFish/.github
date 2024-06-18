@@ -1,7 +1,10 @@
 <h1 align="center">Hello Guys! We Are WellFish! From Bangkit Team C241-PS410</h1>
 
+## Introduction
+We are Capstone Team C241-PS410 From Bangkit 2024 Batch 1. We created an Android app called WellFsh.
+
 ## About WellFish App
-[[Image Here]]
+![Uploading Logo.jpg…]()
 
 WellFish is a pioneering mobile application designed to harness the power of machine learning and advanced image processing to revolutionize the way consumers and industry professionals interact with marine resources. As a maritime country, Indonesia boasts a rich variety of marine life, particularly fish, which are a vital source of protein and omega-3 fatty acids. Despite the abundance of these resources, ensuring the correct identification and freshness of fish remains a significant challenge. This can lead to decreased consumer trust and potential health risks.
 
