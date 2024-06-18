@@ -24,9 +24,9 @@ WellFish is a pioneering mobile application designed to harness the power of mac
 
 To address these issues, WellFish offers two primary features:
 
-Fish Classification: This feature allows users to identify the species of fish from a simple image. Using sophisticated machine learning algorithms, WellFish can classify the fish, providing detailed information about its name, type, dietary habits, and other relevant descriptions. This empowers users with knowledge about their seafood, enhancing their confidence in their purchases and consumption.
+• Fish Classification: This feature allows users to identify the species of fish from a simple image. Using sophisticated machine learning algorithms, WellFish can classify the fish, providing detailed information about its name, type, dietary habits, and other relevant descriptions. This empowers users with knowledge about their seafood, enhancing their confidence in their purchases and consumption.
 
-Disease Detection: WellFish also includes a disease detection feature, which can identify potential diseases in fish from an image. This is crucial for preventing the spread of fish diseases that can negatively impact marine ecosystems and the fishing industry. By providing early detection, WellFish helps in maintaining the health of marine resources and ensuring the safety of fish for consumption.
+• Disease Detection: WellFish also includes a disease detection feature, which can identify potential diseases in fish from an image. This is crucial for preventing the spread of fish diseases that can negatively impact marine ecosystems and the fishing industry. By providing early detection, WellFish helps in maintaining the health of marine resources and ensuring the safety of fish for consumption.
 
 In addition to these main features, WellFish incorporates essential user functionalities such as user registration, login, history tracking of classifications, and account management features like password changes and logout options. These functionalities ensure a smooth and secure user experience.
 
@@ -50,21 +50,6 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 [![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,mysql,gcp,tensorflow,pytorch)](https://skillicons.dev)
 
 ## Repository
-repo here
-
-## Widget
-
-| Collaborative Productivity - Last 28 days | Star History |
-| ----------- | ----------- |
-|widget disini entar|widget disini entar|
-
-| Currently Working On - Last 28 days | Lines of Code Changes |
-| ----------- | ----------- |
-|widget disini entar|widget disini entar|
-
-| Repository Annual Ranking |
-| ----------- |
-| widget disini entar |
 
 ## Contact us
 email : WellFishBangkit@gmail.com
