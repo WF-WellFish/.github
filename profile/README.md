@@ -7,9 +7,9 @@ WellFish is a pioneering mobile application designed to harness the power of mac
 
 To address these issues, WellFish offers two primary features:
 
-• Fish Classification: This feature allows users to identify the species of fish from a simple image. Using sophisticated machine learning algorithms, WellFish can classify the fish, providing detailed information about its name, type, dietary habits, and other relevant descriptions. This empowers users with knowledge about their seafood, enhancing their confidence in their purchases and consumption.
+- Fish Classification: This feature allows users to identify the species of fish from a simple image. Using sophisticated machine learning algorithms, WellFish can classify the fish, providing detailed information about its name, type, dietary habits, and other relevant descriptions. This empowers users with knowledge about their seafood, enhancing their confidence in their purchases and consumption.
 
-• Disease Detection: WellFish also includes a disease detection feature, which can identify potential diseases in fish from an image. This is crucial for preventing the spread of fish diseases that can negatively impact marine ecosystems and the fishing industry. By providing early detection, WellFish helps in maintaining the health of marine resources and ensuring the safety of fish for consumption.
+- Disease Detection: WellFish also includes a disease detection feature, which can identify potential diseases in fish from an image. This is crucial for preventing the spread of fish diseases that can negatively impact marine ecosystems and the fishing industry. By providing early detection, WellFish helps in maintaining the health of marine resources and ensuring the safety of fish for consumption.
 
 In addition to these main features, WellFish incorporates essential user functionalities such as user registration, login, history tracking of classifications, and account management features like password changes and logout options. These functionalities ensure a smooth and secure user experience.
 
@@ -34,7 +34,7 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 
 ## API Documentation
 - Backend API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XMhNgf">Click Here For Documentation</a>
-- Machine Learning Classification API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XPBhJE">Documentation</a>
+- Machine Learning Classification API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XPBhJE">Click Here For Documentation</a>
 
 ## Contact us
 email : WellFishBangkit@gmail.com
