@@ -32,5 +32,9 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 ## Language & Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,mysql,gcp,tensorflow,pytorch)](https://skillicons.dev)
 
+## API Documentation
+- Backend API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XMhNgf">Click Here For Documentation</a>
+- Machine Learning Classification API = <a href="https://documenter.getpostman.com/view/19448005/2sA3XPBhJE">Documentation</a>
+
 ## Contact us
 email : WellFishBangkit@gmail.com
