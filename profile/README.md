@@ -41,7 +41,7 @@ Image Here
 Caption bla bla bla bla
 
 ## Language & Tools
-List tools sama bahasa pemrograman entar pakai logo2nya aja
+[![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,MySQL,gcp,tensorflow,pytorch,)](https://skillicons.dev)
 
 ## Repository
 repo here
