@@ -1,22 +1,5 @@
 <h1 align="center">Hello Guys! We Are WellFish! From Bangkit Team C241-PS410</h1>
 
-<h4 align="center">
-  <b><a href="#">Data Explorer</a></b>
-  •
-  <b><a href="#">Repo Rankings</a></b>
-  •
-  <b><a href="#">Developer Analytics</a></b>
-  •
-  <a href="#">Repo Analytics</a>
-  •
-  <a href="#">Collections</a>
-  •
-  <a href="#">Blog</a>
-  •
-  <a href="#">API</a>
-  •
-</h3>
-
 ## About WellFish App
 [[Image Here]]
 
@@ -48,8 +31,6 @@ Our team consists of 6 students from 3 learning paths. Machine Learning division
 
 ## Language & Tools
 [![My Skills](https://skillicons.dev/icons?i=nodejs,laravel,kotlin,mysql,gcp,tensorflow,pytorch)](https://skillicons.dev)
-
-## Repository
 
 ## Contact us
 email : WellFishBangkit@gmail.com
